@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Nauman Ali Traditional Resume"
+title:  "Nauman Ali"
 date:   2020-10-12 21:53:05 -0400
 categories: jekyll update
 ---
-![](RackMultipart20201013-4-pdlhsv_html_51399c14c8f76db3.jpg) **Nauman Ali**
+
 
 Address: 1-B Umar Colony Infantry Rd, Lahore Cantt, Pakistan
 
@@ -14,7 +14,7 @@ E-mail: [naumanonline@live.com](mailto:naumanonline@live.com)
 
 [www.linkedin.com/in/naumanonline](http://www.linkedin.com/in/naumanonline)
 
-Website: naumanali.online
+Website: [naumanali.online](http://www.naumanali.online)
 
 **OBJECTIVE**
 
