@@ -22,7 +22,7 @@ Provide leadership and vision for the IT department, hands-on with upcoming tech
 
 **EXECUTIVE SUMMARY**
 
-An accomplished and multi-talented IT Professional with 10+ years&#39; experience in the IT industry. Resourceful and solution oriented with a global vision of IT consultancy. Having a bachelor&#39;s degree in Computer Science and Software Development from Deakin University, Australia. Holding over a dozen technical trainings and certifications.
+An accomplished and multi-talented IT Professional with 12+ years&#39; experience in the IT industry. Resourceful and solution oriented with a global vision of IT consultancy. Having a bachelor&#39;s degree in Computer Science and Software Development from Deakin University, Australia. Holding over a dozen technical trainings and certifications.
 
 **EXPERIENCE**
 
