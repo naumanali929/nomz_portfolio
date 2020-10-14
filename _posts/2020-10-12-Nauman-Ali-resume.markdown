@@ -6,7 +6,7 @@ categories: jekyll update
 ---
 
 
-Address: 1-B Umar Colony Infantry Rd, Lahore Cantt, Pakistan
+Address: 1-B Umer Colony Infantry Rd, Lahore Cantt, Pakistan
 
 Mob: +92 323 8496526
 
@@ -14,7 +14,7 @@ E-mail: [naumanonline@live.com](mailto:naumanonline@live.com)
 
 [www.linkedin.com/in/naumanonline](http://www.linkedin.com/in/naumanonline)
 
-Website: [naumanali.online](http://www.naumanali.online)
+[www.naumanali.online](http://www.naumanali.online/)
 
 **OBJECTIVE**
 
@@ -44,17 +44,15 @@ Sovereign Medical Services, Inc. has a total of 1500+ nodes with its Headquarter
 
 **Milestones achieved at MDVision**
 
-- Establishing an internal IT dept, transitioning away from our MSP bringing IT services inhouse
-
-Currently managing a team of more then a Dozen highly qualified IT engineers to carry out the day to day operations both in NJ and Lahore.
+- Establishing an internal IT dept, transitioning away from our MSP bringing IT services in-house. Currently managing a team of more then a Dozen highly qualified IT engineers to carry out the day to day operations both in New Jersey and Lahore.
 
 - Facilitated the Primary Data Center Migration to Equinix Data Center in Newark, NJ
 
-- Live Migration from several Microsoft Exchange Server 2010 to office 365 with no down time and kept all on premises servers live and operational for the complete duration on the project. Migrated nearly 1000 mailboxes.
+- Live Migration from several Microsoft Exchange Server 2010 to office 365 with no down time, kept all on premises servers live and operational for the complete duration on the project. Migrated nearly 1000 mailboxes.
 
 - Consolidated and Migrated the Infrastructure into a Single Active Directory from several independent domains from different forests with no down time. Transitioning from legacy file servers to DFS based file servers 2012/2016.
 
-- Established a Disaster Recovery Solution for Critical applications with Live replication and availability of Resources at the DR location with an RPO of 15 sec or less -- Based of VMware, Spectrum Enterprises cloud-based solution and Zerto.
+- Established a Disaster Recovery Solution for Critical applications with Live replication and availability of Resources at the DR location with an RPO of 15 sec or less -- Based on VMware, Spectrum Enterprises cloud-based solution and Zerto.
 
 - Implemented Clustering and HA solutions for Windows Servers and Microsoft SQL Servers
 
@@ -68,7 +66,7 @@ Currently managing a team of more then a Dozen highly qualified IT engineers to 
 
 - Devised a comprehensive backup solution Based of Veeam Backup and Replication, Veeam One for Monitoring and reporting. Maintaining application aware backups for SQL, AD and Web servers following a 4-3-2-1 backup approach, maintaining a local backup copy local Storage Snapshot, Veeam Cloud connect backup plus a DR live Sync for the critical servers.
 
-Also using Veeam virtual labs to test backups and setting up sandbox environments for QA/ Dev testing.
+- Setup on demand sandbox environments for QA/Dev using Veeam virtual labs. Providing complete isolation from Production environment.
 
 - Establish multiple VMware based virtual infrastructure setups managing more than 250 VMs in multiple data centers.
 
@@ -76,13 +74,13 @@ Also using Veeam virtual labs to test backups and setting up sandbox environment
 
 - Implementing Sophos encryption for securing our Mobile devices mainly windows 7/ 10 laptops
 
-- Setting up multiple redundant RDS Servers for various applications
+- Setting up multiple redundant RDS Servers for various applications using HA proxy as the load balancer.
 
 - Setting up advanced ftp solutions following all HIPPA compliance and HL7 file transfers with extensive monitoring and auditing for all established connections with Geological Blocking, IP blacklisting, supporting all types of connectivity restrictions and options.
 
 - Setting up SCCM and SCOM for Microsoft patching, monitoring and security audits
 
-- Co-managing Voip and efax solutions based of Ayaya, Freepbx asterisks, efax, Ring Central and Nextiva etc
+- Co-managing Voip and efax solutions based on Ayaya, Freepbx asterisks, efax, Ring Central and Nextiva etc
 
 - Co-managing the HP, Dell and Cisco-based network and wireless solutions (Ubiquiti &amp; Meraki) alongside our MSP
 
@@ -93,7 +91,8 @@ Also using Veeam virtual labs to test backups and setting up sandbox environment
 - Deployed Observium an open source network management and monitoring solution
 
 - Implemented a thorough Remote Server accessing solution where techs only have access to the VMs when required with complete auditing, 2FA and the ability to connect with various required accounts without disclosing credentials with the tech engineers.
-- Managing amazon webservices based backup archiving solutions using EC2, S3, Glacier and Storage gateway.
+
+- Managing amazon web services based backup archiving solutions using EC2, S3, Glacier and Storage gateway integration with independent backup solutions and Veaam Backup and Replication.
 
 - Implemented 2FA among all critical applications and remote access servers.
 
@@ -365,4 +364,3 @@ Juniper ID: JPR62776
 
 Will be furnished on demand.
 
-![](RackMultipart20201013-4-pdlhsv_html_73ee7eda9bcd8ee3.gif)
