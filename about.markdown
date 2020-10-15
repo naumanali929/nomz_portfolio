@@ -12,7 +12,7 @@ US: +1 201 654 4755
 
 E-mail: [naumanonline@live.com](mailto:naumanonline@live.com)
 
-[www.linkedin.com/in/nauman](http://www.linkedin.com/in/nauman)
+[www.linkedin.com/in/naumanonline](http://www.linkedin.com/in/naumanonline)
 
 Website: [naumanali.online](http://www.naumanali.online/)
 
