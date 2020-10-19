@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-[Download resume in pdf format](/nomz_portfolio/Nauman-Ali-resume-2020.pdf)
+[Download resume in pdf format](/nomz_portfolio/assets/Nauman-Ali-resume-2020.pdf)
