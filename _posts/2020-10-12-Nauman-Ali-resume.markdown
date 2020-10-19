@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nauman Ali"
+title:  "Nauman Ali -- view resume"
 date:   2020-10-12 21:53:05 -0400
 categories: jekyll update
 ---
