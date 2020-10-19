@@ -6,3 +6,4 @@ categories: jekyll update
 ---
 
 testing
+![Download resume in pdf format](/assets/Nauman-Ali-resume-2020.pdf)
