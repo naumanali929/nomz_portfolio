@@ -5,5 +5,5 @@ date:   2020-10-10 21:53:05 -0400
 categories: jekyll update
 ---
 
-testing
-![Download resume in pdf format](/assets/Nauman-Ali-resume-2020.pdf)
+
+[Download resume in pdf format](/assets/Nauman-Ali-resume-2020.pdf)
