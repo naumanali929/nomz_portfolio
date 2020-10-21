@@ -22,7 +22,7 @@ title: Nauman Ali Portfolio
 email: naumanonline@live.com
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://naumanali.online
+url: "https://naumanali.online" # the base hostname & protocol for your site, e.g. http://naumanali.online
 
 
 # Build settings
